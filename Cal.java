@@ -1,4 +1,4 @@
-import java.utill.Scanner;
+import java.util.Scanner;
 public class Calculation {
 public static void main(String[] args){
 int marks[]=new int[7];// 7 rep 7 subjects
